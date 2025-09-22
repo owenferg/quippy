@@ -94,3 +94,5 @@ logs
 # Temporary files
 tmp/
 temp/
+
+quippy.code-workspace
